@@ -55,7 +55,13 @@ p {
     font-size: 16px;
     line-height: 1.5;
 }
+.activity {
+	border: 15px solid transparent;
+}
 
+.activity:hover {
+	border-color:#f1f1f1;
+}
 .bg-primary {
   /*  background-color: #d64d4d; */
   background-color: #5a5c51;
